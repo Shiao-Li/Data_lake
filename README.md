@@ -1,12 +1,13 @@
 # Data_lake
 ## Integrantes:
-Elvis Guanoluisa
 
-Roberto Shiao
++ Elvis Guanoluisa
 
-Franklin Patino
++ Roberto Shiao
 
-Alexis Chasi
++ Franklin Patino
 
-### Fuentes
-#### Muertes mundiales: https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world
++ Alexis Chasi
+
+### Links repositorios Personales con la fuente de datos trabajada
+# https://github.com/AlexisChasi/Analisis_project.git
