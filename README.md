@@ -25,3 +25,4 @@ https://app.powerbi.com/view?r=eyJrIjoiNGQwMmIwOGItZGZiOS00NGI3LTk2MDktYjRkODEwZ
 + ### https://github.com/AlexisChasi/Analisis_project.git
 + ### https://github.com/Shiao-Li/Analisis_defunciones_colombia.git
 + ### https://github.com/Jhowellz/Analisis-Defunciones-Ecuador
++ ### https://github.com/elvissoide/Analisis_Defuncione_Mundiales.git
