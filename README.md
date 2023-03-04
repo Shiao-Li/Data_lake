@@ -16,7 +16,9 @@ https://app.powerbi.com/view?r=eyJrIjoiNGQwMmIwOGItZGZiOS00NGI3LTk2MDktYjRkODEwZ
 
 ### Link video del proceso
 
+---
 
+### Modelo del data lake
 ![image](https://user-images.githubusercontent.com/95731527/222867971-71ecbe2a-2355-44ea-bd82-300c68e82152.png)
 
  ### Links repositorios Personales con la fuente de datos trabajada
