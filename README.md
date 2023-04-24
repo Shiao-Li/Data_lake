@@ -1,5 +1,5 @@
 # Data lake
-## Integrantes:
+## Desarrolladores:
 
 + Elvis Guanoluisa
 
